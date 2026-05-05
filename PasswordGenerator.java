@@ -12,7 +12,7 @@ import java.util.Scanner;
         int index = random.nextInt(characters.length());                                
         password.append(characters.charAt(index));
         }
-        System.out.println(" Your generated password is: " + password.toString());
+        System.out.println(" Your generated password is : " + password.toString());
 
     }
   
