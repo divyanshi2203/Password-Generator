@@ -1,3 +1,2 @@
 # Password-Generator
 A simple Java based password generator that creates strong, random passwords using letters, numbers, and special characters like @. Users can specify the desired password length via the command line.
-This was one of the initial projects.
