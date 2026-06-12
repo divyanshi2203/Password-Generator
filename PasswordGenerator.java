@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
   public class PasswordGenerator {
-    public static void main(String[] args){
+    public static void main(String[] args){ 
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
         String characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+-=[]{}";
